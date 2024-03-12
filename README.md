@@ -24,10 +24,12 @@
 <BR>
 - 👯 I’m looking to collaborate on Projects & Labs
 <BR>
-- 🤔 I’m looking for help with learning how to bridge the gap between medicine and technology/AI
+- 🤔 I’m looking for help with learning how to bridge the gap between medicine, technology, and AI
 <BR>
 - 💬 Ask me anything!
 <BR>
 - 📫 You can reach me at: kambez.jalalyar@gmail.com
 <BR>
-- ⚡ Fun facts: I train MMA and love everything related to health and wellness, I love to garden, and I have 7 chickens and 2 dogs.
+- ⚡ Fun facts: I train MMA and love everything related to health and wellness.
+<br>
+    I also enjoy gardening, building things with my own hands, and I have 7 chickens and 2 dogs.
