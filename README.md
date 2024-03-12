@@ -30,6 +30,6 @@
 <BR>
 - 📫 You can reach me at: kambez.jalalyar@gmail.com
 <BR>
-- ⚡ Fun facts: I train MMA and love everything related to health and wellness.
+- ⚡ Fun facts: I train MMA and love everything related to health and wellness. I also enjoy
 <br>
-    I also enjoy gardening, building things with my own hands, and I have 7 chickens and 2 dogs.
+gardening, cooking, building things/DIY, and taking care of my 7 chickens and 2 dogs.
