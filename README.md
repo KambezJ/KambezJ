@@ -4,7 +4,7 @@
 
 -[Active Directory Home Lab] (insert link here)
 <br>
--High Ranking Website I created (and maintain) for my local business: https://afgautoglass.com/
+-High Ranking Website I created, and currently maintain, for my local business: https://afgautoglass.com/
 
 <h2>✨Certifications:</h2>
 
