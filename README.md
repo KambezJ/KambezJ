@@ -17,7 +17,7 @@
 [linkedin]: https://linkedin.com/in/kambezJ/
 <br>
 
-<h2>Get To Know Me</h2>
+<h2>Get To Know Me Better:</h2>
 - 🔭 I’m currently working on expanding my skills and earning certifications in Cybersecurity
 <BR>
 - 🌱 I’m currently learning about Networking and Virtual Machines
