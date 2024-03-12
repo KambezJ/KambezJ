@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional</a></h1>
 
-<!--
-**KambezJ/KambezJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+-[Active Directory Home Lab] (insert link here)
+<br>
+-High Ranking Website I created (and maintain) for my local business: https://afgautoglass.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>✨Certifications:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="KambezJalalyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KambezJalalyar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/kambezsadat/
+[linkedin]: https://linkedin.com/in/kambezJ/
+<br>
+
+<h2>Get To Know Me</h2>
+- 🔭 I’m currently working on expanding my skills and earning certifications in Cybersecurity
+<BR>
+- 🌱 I’m currently learning about Networking and Virtual Machines
+<BR>
+- 👯 I’m looking to collaborate on Projects & Labs
+<BR>
+- 🤔 I’m looking for help with learning how to bridge the gap between medicine and technology/AI
+<BR>
+- 💬 Ask me anything!
+<BR>
+- 📫 You can reach me at: kambez.jalalyar@gmail.com
+<BR>
+- ⚡ Fun facts: I train MMA and love everything related to health and wellness, I love to garden, and I have 7 chickens and 2 dogs.
