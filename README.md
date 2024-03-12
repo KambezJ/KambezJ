@@ -18,6 +18,8 @@
 <br>
 
 <h2>Get To Know Me Better:</h2>
+- 💬 I am fluent in English, Spanish, Dari and Farsi
+<BR>
 - 🔭 I’m currently working on expanding my skills and earning certifications in Cybersecurity
 <BR>
 - 🌱 I’m currently learning about Networking and Virtual Machines
@@ -25,8 +27,6 @@
 - 👯 I’m looking to collaborate on Projects & Labs
 <BR>
 - 🤔 I’m looking for help with learning how to bridge the gap between medicine, technology, and AI
-<BR>
-- 💬 Ask me anything!
 <BR>
 - 📫 You can reach me at: kambez.jalalyar@gmail.com
 <BR>
