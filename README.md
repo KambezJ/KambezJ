@@ -1,4 +1,5 @@
-<h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional, Entrepreneur</a></h1>
+
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
@@ -8,8 +9,11 @@
 <br>
 -[Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 
+
 <h2>✨Certifications:</h2>
+
 -[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
+<br>
 -[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ.png)
 
 
