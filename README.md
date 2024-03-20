@@ -9,6 +9,9 @@
 -[Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 
 <h2>✨Certifications:</h2>
+-[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
+-[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ.png)
+
 
 <h2>🤳Connect with me:</h2>
 
