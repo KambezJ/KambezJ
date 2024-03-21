@@ -3,11 +3,11 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
--[Active Directory Home Lab] (insert link here)
+-Home Lab: [Active Directory Home Lab] (insert link here)
 <br>
--[High Ranking Website I created, and currently maintain, for my local business](https://afgautoglass.com/)
+-Home Lab: [Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 <br>
--[Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
+-High Ranking [Website](https://afgautoglass.com/) I created (and maintain) [for my local business](https://afgautoglass.com/)
 
 
 <h2>✨Certifications:</h2>
