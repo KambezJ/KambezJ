@@ -3,11 +3,11 @@
 
 <h2>👨‍💻Cybersecurity Projects/Tutorials:</h2>
 
--Home Lab (advanced): [Using Splunk SIEM tool to analyze attacks, vulnerabilities and security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
+-[Using Splunk SIEM tool to analyze attacks, vulnerabilities and security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
 <br>
--Home Lab: [Active Directory and Bulk User Creation: Simulating and Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
+-[Active Directory and Bulk User Creation: Simulating and Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
 <br>
--Home Lab: [Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
+-[Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 <br>
 -High Ranking [Website](https://afgautoglass.com/) I created (and maintain) [for my local business](https://afgautoglass.com/)
 
