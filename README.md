@@ -3,9 +3,9 @@
 
 <h2>👨‍💻Cybersecurity Projects/Tutorials:</h2>
 
--[Using Splunk SIEM tool to analyze attacks, vulnerabilities and security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
+-[Using Splunk SIEM to analyze attacks, vulnerabilities & security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
 <br>
--[Active Directory and Bulk User Creation: Simulating and Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
+-[Active Directory & Bulk User Creation: Simulating & Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
 <br>
 -[Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 <br>
