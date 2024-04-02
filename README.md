@@ -9,6 +9,8 @@
 <br>
 -[Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 <br>
+-[Vulnerability Assessment and Remediation of a Windows 10 system using Nessus Essentials](https://github.com/KambezJ/Vulnerability-Management-using-Nessus)
+<br>
 -High Ranking [Website](https://afgautoglass.com/) I created (and maintain) [for my local business](https://afgautoglass.com/)
 
 
