@@ -5,9 +5,9 @@
 
 -[Using Splunk SIEM to analyze attacks, vulnerabilities & security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
 <br>
--[Active Directory & Bulk User Creation: Simulating & Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
+-[Active Directory & Automated Bulk User Creation: Simulating & Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
 <br>
--[Using Microsoft Sentinel SIEM, Log Analytics Workspace, Virtual machine honeypot to map cyber attacks](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
+-[Mapping live cyber attacks on a Honeypot using Microsoft Sentinel SIEM and Log Analytics Worskpace](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 <br>
 -[Vulnerability Assessment and Remediation of a Windows 10 system using Nessus Essentials](https://github.com/KambezJ/Vulnerability-Management-using-Nessus)
 <br>
