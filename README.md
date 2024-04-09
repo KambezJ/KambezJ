@@ -41,14 +41,11 @@
 <BR>
 🔭 I’m currently working on expanding my skills and earning certifications in Cybersecurity
 <BR>
-🌱 I’m currently learning about Networking and Virtual Machines
+🌱 I’m currently learning about Networking and AI
 <BR>
 👯 I’m looking to collaborate on Projects & Labs
 <BR>
-🤔 I’m looking for help with learning how to bridge the gap between medicine, technology, and AI
+🤔 I want to eventually work in bridging the gap between medicine, technology, and AI
 <BR>
 📫 You can reach me at: kambez.jalalyar@gmail.com
 <BR>
-⚡ Fun facts: I train MMA and love everything related to health and wellness. I also enjoy gardening,
-<BR>
-cooking, building things/DIY, and taking care of my 7 chickens and 2 dogs.
