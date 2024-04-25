@@ -45,7 +45,7 @@
 <BR>
 👯 I’m looking to collaborate on Projects & Labs
 <BR>
-🤔 I want to eventually work in bridging the gap between medicine, technology, and AI
+🤔 I want to eventually work on bridging the gap between medicine, technology, and AI
 <BR>
 📫 You can reach me at: kambez.jalalyar@gmail.com
 <BR>
