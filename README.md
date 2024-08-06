@@ -18,13 +18,13 @@
 
 -[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
 <br>
--[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ.png)
+-[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ)
 <br>
--CompTIA Security+ (expected 04/2024)
+-[CompTIA Security+](https://imgur.com/a/OlJA8ry)
 <br>
--CompTIA Network+ (expected 07/2024)
+-CompTIA Network+ (expected 10/2024)
 <br>
--Blue Team Level 1 (expected 10/2024)
+-Blue Team Level 1 (expected 12/2024)
 
 
 <h2>🤳Connect with me:</h2>
