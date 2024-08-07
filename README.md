@@ -5,27 +5,35 @@
 
 -[Using Splunk SIEM to analyze attacks, vulnerabilities & security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
 <br>
+<br>
 -[Active Directory & Automated Bulk User Creation: Simulating & Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
+<br>
 <br>
 -[Mapping live cyber attacks on a Honeypot using Microsoft Sentinel SIEM and Log Analytics Worskpace](https://github.com/KambezJ/Microsoft_Sentinel_Mapping_Cyber_Attacks)
 <br>
+<br>
 -[Vulnerability Assessment and Remediation of a Windows 10 system using Nessus Essentials](https://github.com/KambezJ/Vulnerability-Management-using-Nessus)
 <br>
--High Ranking [Website](https://afgautoglass.com/) I created (and maintain) [for my local business](https://afgautoglass.com/)
+<br>
+-[High Ranking Website I created (and maintain) for my local business](https://afgautoglass.com/)
 
 
 <h2>✨Certifications:</h2>
 
 -[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
 <br>
+<br>
 -[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ)
+<br>
 <br>
 -[CompTIA Security+](https://imgur.com/a/OlJA8ry)
 <br>
+<br>
 -CompTIA Network+ (expected 10/2024)
 <br>
+<br>
 -Blue Team Level 1 (expected 12/2024)
-
+<br>
 
 <h2>🤳Connect with me:</h2>
 
