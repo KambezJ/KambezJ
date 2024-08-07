@@ -1,7 +1,7 @@
-<h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional, Entrepreneur</a></h1>
+<h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional, Entrepreneur, Student</a></h1>
 
 
-<h2>👨‍💻Cybersecurity Projects/Tutorials:</h2>
+<h2>👨‍💻Projects & Tutorials:</h2>
 
 -[Using Splunk SIEM to analyze attacks, vulnerabilities & security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
 <br>
@@ -20,13 +20,13 @@
 
 <h2>✨Certifications:</h2>
 
+-[CompTIA Security+](https://imgur.com/a/OlJA8ry)
+<br>
+<br>
 -[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
 <br>
 <br>
 -[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ)
-<br>
-<br>
--[CompTIA Security+](https://imgur.com/a/OlJA8ry)
 <br>
 <br>
 -CompTIA Network+ (expected 10/2024)
@@ -45,15 +45,21 @@
 <br>
 
 <h2>Get To Know Me Better:</h2>
-💬 I am fluent in English, Spanish, Dari and Farsi
+💬 I am fluent in English, Spanish, Dari, and Farsi.
 <BR>
-🔭 I’m currently working on expanding my skills and earning certifications in Cybersecurity
 <BR>
-🌱 I’m currently learning about Networking and AI
+🔭 I’m working on expanding my skills and earning certifications in Cybersecurity.
 <BR>
-👯 I’m looking to collaborate on Projects & Labs
 <BR>
-🤔 I want to eventually work on bridging the gap between medicine, technology, and AI
+💻 I’m currently learning about Networking and AI.
+<BR>
+<BR>
+🤝 I’m looking to collaborate on Projects & Labs.
+<BR>
+<BR>
+📚 I want to eventually work on bridging the gap between medicine, technology, and AI.
+<BR>
 <BR>
 📫 You can reach me at: kambez.jalalyar@gmail.com
+<BR>
 <BR>
