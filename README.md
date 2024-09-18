@@ -29,10 +29,10 @@
 -[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ)
 <br>
 <br>
--CompTIA Network+ (expected 10/2024)
+-CompTIA Network+ (expected 12/2024)
 <br>
 <br>
--Blue Team Level 1 (expected 12/2024)
+-Blue Team Level 1 (expected 03/2025)
 <br>
 
 <h2>🤳Connect with me:</h2>
