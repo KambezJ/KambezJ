@@ -48,7 +48,7 @@
 💬 I am fluent in English, Spanish, Dari, and Farsi.
 <BR>
 <BR>
-🔭 I’m working on expanding my skills and earning certifications in Cybersecurity.
+🔭 I’m working on expanding my skills and earning certifications in Cybersecurity and Python.
 <BR>
 <BR>
 💻 I’m currently learning about Networking and AI.
@@ -58,8 +58,5 @@
 <BR>
 <BR>
 📚 I want to eventually work on bridging the gap between medicine, technology, and AI.
-<BR>
-<BR>
-📫 You can reach me at: kambez.jalalyar@gmail.com
 <BR>
 <BR>
