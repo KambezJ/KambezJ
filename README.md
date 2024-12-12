@@ -3,7 +3,8 @@
 
 <h2>👨‍💻Projects & Tutorials:</h2>
 
--[Using Python Nueral Networks and Breast Cancer Datasets to Teach AI and Predict if Tumors are Benign or Malignant]([https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab](https://github.com/KambezJ/Breast-Cancer-Classification-using-Neural-Networks))
+-[Using Python Nueral Networks and Breast Cancer Datasets to Teach AI and Predict if Tumors are Benign or Malignant]
+(https://github.com/KambezJ/Breast-Cancer-Classification-using-Neural-Networks)
 <br>
 <br>
 -[Using Splunk SIEM to analyze attacks, vulnerabilities & security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
