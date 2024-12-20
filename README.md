@@ -3,6 +3,9 @@
 
 <h2>👨‍💻Projects & Tutorials:</h2>
 
+-[Recreating the Classic Game - Snake - Using Python and Tkinter](https://github.com/KambezJ/Classic-Snake-Game-Python)
+<br>
+<br>
 -[Using Python Neural Networks and Breast Cancer Datasets to Teach AI and Predict if Tumors are Benign or Malignant](https://github.com/KambezJ/Breast-Cancer-Classification-using-Neural-Networks)
 <br>
 <br>
