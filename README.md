@@ -6,6 +6,9 @@
 -[Python Neural Networks - Using Breast Cancer Datasets to Teach AI & Predict if Tumors are Benign or Malignant - 98% accuracy](https://github.com/KambezJ/Breast-Cancer-Classification-using-Neural-Networks)
 <br>
 <br>
+-[Python - AI Web Scraper with Streamlit. Parse specific information using natural language prompts](https://github.com/KambezJ/AI-Webscraper-on-Python)
+<br>
+<br>
 -[Recreating the Classic Game - Snake - Using Python and Tkinter](https://github.com/KambezJ/Classic-Snake-Game-Python)
 <br>
 <br>
