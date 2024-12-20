@@ -3,7 +3,7 @@
 
 <h2>👨‍💻Projects & Tutorials:</h2>
 
--[Using Python Neural Networks and Breast Cancer Datasets to Teach AI and Predict if Tumors are Benign or Malignant - with 98% accuracy!](https://github.com/KambezJ/Breast-Cancer-Classification-using-Neural-Networks)
+-[Python - Neural Networks & Breast Cancer Datasets to Teach AI & Predict if Tumors are Benign or Malignant - 98% accuracy](https://github.com/KambezJ/Breast-Cancer-Classification-using-Neural-Networks)
 <br>
 <br>
 -[Recreating the Classic Game - Snake - Using Python and Tkinter](https://github.com/KambezJ/Classic-Snake-Game-Python)
@@ -12,7 +12,7 @@
 -[Recreating the Classic Game - Pong - Using Python and Turtle](https://github.com/KambezJ/Classic-Game-Pong-Python)
 <br>
 <br>
--[Using Splunk SIEM to analyze attacks, vulnerabilities & security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
+-[Splunk SIEM - analyze attacks, vulnerabilities & security blind spots on a custom Active Directory Network](https://github.com/KambezJ/Splunk-KaliLinux-AtomicRedTeam-ActiveDirectoryLab)
 <br>
 <br>
 -[Active Directory & Automated Bulk User Creation: Simulating & Configuring a Corporate Network](https://github.com/KambezJ/ActiveDirectoryHomeLab)
