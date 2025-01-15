@@ -1,9 +1,9 @@
 <h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional, Entrepreneur, Student</a></h1>
 
-<p align="center">
-  <img src="https://imgur.com/3ZgIOMC.png" alt="Certificate 1" width="120" height="120">
-  <img src="https://imgur.com/MKwclYp.png" alt="Certificate 2" width="120" height="120">
-  <img src="https://imgur.com/0UFqbxO.png" alt='Certificate 3" width="120" height="120">
+<p>
+  <img src="https://imgur.com/3ZgIOMC.png" alt="Certificate 1" width="120" height="120" style="margin-right: 10px;">
+  <img src="https://imgur.com/MKwclYp.png" alt="Certificate 2" width="120" height="120" style="margin-right: 10px;">
+  <img src="https://imgur.com/0UFqbxO.png" alt="Certificate 3" width="120" height="120">
 </p>
 
 <h2>👨‍💻Projects & Tutorials:</h2>
