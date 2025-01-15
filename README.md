@@ -32,13 +32,13 @@
 
 <h2>✨Certifications:</h2>
 
+-[Python Institute: Certified Entry-Level Python Programmer - PCEP 30-02](https://imgur.com/NRuq9Pl)
+<br>
+<br>
 -[CompTIA Security+](https://imgur.com/a/OlJA8ry)
 <br>
 <br>
 -[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
-<br>
-<br>
--[Python Institute: Certified Entry-Level Python Programmer - PCEP 30-02](https://imgur.com/NRuq9Pl)
 <br>
 <br>
 -[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ)
