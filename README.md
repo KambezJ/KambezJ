@@ -1,10 +1,10 @@
 <h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional, Entrepreneur, Student</a></h1>
 
 <p align="center">
-  <img src="https://imgur.com/3ZgIOMC" alt="Certificate 1" width="60" height="60">
-  <img src="assets/certificate2.png" alt="Certificate 2" width="60" height="60">
-  <img src="assets/certificate3.png" alt="Certificate 3" width="60" height="60">
-  <img src="assets/certificate4.png" alt="Certificate 4" width="60" height="60">
+  <img src="https://imgur.com/a/8I9IjY8" alt="Certificate 1" width="60" height="60">
+  <img src="" alt="Certificate 2" width="60" height="60">
+  <img src="" alt="Certificate 3" width="60" height="60">
+  <img src="" alt="Certificate 4" width="60" height="60">
 </p>
 
 <h2>👨‍💻Projects & Tutorials:</h2>
