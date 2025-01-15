@@ -38,13 +38,16 @@
 -[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
 <br>
 <br>
+-[Python Institute: Certified Entry-Level Python Programmer - PCEP 30-02](https://imgur.com/NRuq9Pl)
+<br>
+<br>
 -[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ)
 <br>
 <br>
--CompTIA Network+ (expected 12/2024)
+-CompTIA Network+ (expected 04/25)
 <br>
 <br>
--Blue Team Level 1 (expected 03/2025)
+-Blue Team Level 1 (expected 09/2025)
 <br>
 
 <h2>🤳Connect with me:</h2>
