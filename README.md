@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity Professional, Entrepreneur, Student</a></h1>
+<h1>Hi, I'm Kambez. <br/><a href="https://www.linkedin.com/in/KambezJ/">Cybersecurity & Development Professional, Entrepreneur, Student</a></h1>
 
 <p>
   <img src="https://imgur.com/3ZgIOMC.png" alt="Certificate 1" width="130" height="130">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
