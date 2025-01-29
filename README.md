@@ -47,7 +47,7 @@
 -[Google Cybersecurity Certification](https://coursera.org/share/4858514cb2281c1b28d7adf7b27b4485)
 <br>
 <br>
--[FEMA NIMS IS 100.C](https://i.imgur.com/TkVjufJ)
+-[FEMA National Incident Management System IS-100.C: Incident Command](https://i.imgur.com/TkVjufJ)
 <br>
 <br>
 -CompTIA Network+ (expected 04/25)
